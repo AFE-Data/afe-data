@@ -5,13 +5,17 @@ AgeingDroid includes an executable .jar file AFEDroid and the source code of UIT
 Our evaluation data is composed of the information of experimental subjects and detailed experimental results (including newly confirmed AFE issues).
 
 ### Dataset AFE-101
+Here, we will list all the collected AFE issues that are confirmed by ageing users.
 
 ### AFEDroid
+Use the following command to execute AFEDroid:
+java -jar path-to-AFEDroid.jar packageName output-path runtime-limit
 
-### How to use AFEDroid?
+Below is an example:
+java -jar AFEDroid com.netease.newsreader.activity C:\Users\strug\Desktop\output 3600
 
 ### Evaluation data
-
+Here, we will list all the experimental subjects and results.
 
 
 
