@@ -1,1 +1,6 @@
+### How to use AFEDroid
+Use the following command to execute AFEDroid:
+java -jar path-to-AFEDroid.jar packageName output-path runtime-limit
 
+Below is an example:
+java -jar AFEDroid com.netease.newsreader.activity C:\Users\strug\Desktop\output 3600
