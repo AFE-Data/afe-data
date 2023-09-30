@@ -14,7 +14,7 @@ Use the following command to execute AFEDroid:
 
 Below is an example:
 
-<code> java -jar AFEDroid com.netease.newsreader.activity C:\Users\strug\Desktop\output 3600 </code>
+<code> java -jar AFEDroid.jar com.netease.newsreader.activity C:\Users\strug\Desktop\output 3600 </code>
 
 ### Evaluation data
 Here, we will list all the experimental subjects and results.
