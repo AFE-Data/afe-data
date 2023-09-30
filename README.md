@@ -9,10 +9,12 @@ Here, we will list all the collected AFE issues that are confirmed by ageing use
 
 ### AFEDroid
 Use the following command to execute AFEDroid:
-java -jar path-to-AFEDroid.jar packageName output-path runtime-limit
+
+<code> java -jar path-to-AFEDroid.jar packageName output-path runtime-limit </code>
 
 Below is an example:
-java -jar AFEDroid com.netease.newsreader.activity C:\Users\strug\Desktop\output 3600
+
+<code> java -jar AFEDroid com.netease.newsreader.activity C:\Users\strug\Desktop\output 3600 </code>
 
 ### Evaluation data
 Here, we will list all the experimental subjects and results.
