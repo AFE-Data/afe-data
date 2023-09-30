@@ -12,7 +12,7 @@ Use the following command to execute AFEDroid:
 
 <code> java -jar path-to-AFEDroid.jar packageName output-path runtime-limit </code>
 
-Below is an example:
+Below is an example of running AFEDroid for a time litmit of 3600s:
 
 <code> java -jar AFEDroid.jar com.netease.newsreader.activity C:\Users\strug\Desktop\output 3600 </code>
 
