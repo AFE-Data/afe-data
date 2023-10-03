@@ -1,11 +1,11 @@
 ### Introduction
 In this repository, the available data consists of (1) AFE-101, (2) AgeingDroid, and (3) all evaluation data. 
 AFE-101 contains all AFE issues confirmed by ageing users and the whole study results; 
-AgeingDroid includes an executable .jar file AgeingDroid and the source code of UITraverser and IssueDetector. 
+AgeingDroid includes an executable .jar file AgeingDroid and the source code of UITraverser and IssueDetector;
 Our evaluation data is composed of the information of experimental subjects and detailed experimental results (including newly confirmed AFE issues).
 
 ### Dataset AFE-101
-Here, we list the examples of AFE issues that are confirmed by ageing users, and you can obtain the complete data at the following website:
+Here, we list the examples of AFE issues in mobile app Himalayan, and you can obtain the complete data at the following website:
 https://terabox.com/s/1cupUChtZW62DgHHG_MESMA
 
 ### AgeingDroid
@@ -25,8 +25,9 @@ In the output folder, the screenshots and the associated GUI trees for all trave
 ### Evaluation data
 Here, we list all the experimental subjects and results.
 
-You can obtain the ageing-fit mobile apps' .apk files at: https://terabox.com/s/12y7VQ5UhiYj_k7V0gUq5iA
+You can obtain the experimental subjects of ageing-fit mobile apps' .apk files at: https://terabox.com/s/12y7VQ5UhiYj_k7V0gUq5iA
 
-You can obtain the complete new detected AFE issues at: https://terabox.com/s/1vIix_4lWLQLvB6HCqr80AA
+You can obtain the examples of newly detected AFE issues in mobile app CaiNiao.
+For the whole newly detected AFE issues, you can obtain them at: https://terabox.com/s/1vIix_4lWLQLvB6HCqr80AA
 
 
