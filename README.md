@@ -5,7 +5,8 @@ AgeingDroid includes an executable .jar file AgeingDroid and the source code of 
 Our evaluation data is composed of the information of experimental subjects and detailed experimental results (including newly confirmed AFE issues).
 
 ### Dataset AFE-101
-Here, we list all the collected AFE issues that are confirmed by ageing users.
+Here, we list the examples of AFE issues that are confirmed by ageing users, and you can obtain the complete data at the following website:
+https://terabox.com/s/1cupUChtZW62DgHHG_MESMA
 
 ### AgeingDroid
 ### How to run AgeingDroid?
@@ -24,5 +25,8 @@ In the output folder, the screenshots and the associated GUI trees for all trave
 ### Evaluation data
 Here, we list all the experimental subjects and results.
 
+You can obtain the ageing-fit mobile apps' .apk files at: https://terabox.com/s/12y7VQ5UhiYj_k7V0gUq5iA
+
+You can obtain the complete new detected AFE issues at: https://terabox.com/s/1vIix_4lWLQLvB6HCqr80AA
 
 
