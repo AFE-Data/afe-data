@@ -8,6 +8,9 @@ Our evaluation data is composed of the information of experimental subjects and 
 Here, we list the examples of AFE issues in mobile app Himalayan, and you can obtain the complete data at the following website:
 https://terabox.com/s/1cupUChtZW62DgHHG_MESMA
 
+For each AFE issue, we will provide it's related  GUI trees and GUI screenshots. Specifically, take the issue 1 of Himalayan as an example (in path: AFE-101/Himalayan-Issue-set/1),  there exists four files: layout_1.xml, layout_2.xml, screenshot_1.png, and screenshot_2.png.
+Among these files, layout_1.xml and layout_2.xml are the associated GUI trees of screenshot_1.png and screenshot_2.png. During the execution of the app, screenshot_2.png is executed after screenshot_1.png. That is, screenshot_1.png -> screenshot_2.png is the execution trace of the app. The AFE issue lies in the last screenshot (i.e., screenshot_2.png) of the execution trace and we use a green solid line box to indicate the widget where the AFE issue is located.
+
 ### AgeingDroid
 ### How to run AgeingDroid?
 Use the following command to execute AFEDroid:
